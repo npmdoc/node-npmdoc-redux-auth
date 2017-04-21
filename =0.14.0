@@ -1,0 +1,4 @@
+npmdoc-redux-auth@0.0.1 /home/travis/build/npmdoc/node-npmdoc-redux-auth
+├── react-dom@15.5.4 
+└── UNMET PEER DEPENDENCY react-router-dom@>=4.0.0
+
