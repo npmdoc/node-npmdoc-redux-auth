@@ -1,0 +1,71 @@
+<svg height="1086" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1086" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">29 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY react-router-bootstrap@*</tspan>
+<tspan x="10" y="90">└─┬ redux-auth@0.0.5-beta5 </tspan>
+<tspan x="10" y="106">  ├── browser-cookies@1.1.0 </tspan>
+<tspan x="10" y="122">  ├── classnames@2.2.5 </tspan>
+<tspan x="10" y="138">  ├── cookie@0.2.4 </tspan>
+<tspan x="10" y="154">  ├── extend@3.0.0 </tspan>
+<tspan x="10" y="170">  ├── immutable@3.8.1 </tspan>
+<tspan x="10" y="186">  ├─┬ isomorphic-fetch@2.2.1 </tspan>
+<tspan x="10" y="202">  │ ├─┬ node-fetch@1.6.3 </tspan>
+<tspan x="10" y="218">  │ │ ├─┬ encoding@0.1.12 </tspan>
+<tspan x="10" y="234">  │ │ │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="250">  │ │ └── is-stream@1.1.0 </tspan>
+<tspan x="10" y="266">  │ └── whatwg-fetch@2.0.3 </tspan>
+<tspan x="10" y="282">  ├─┬ query-string@2.4.2 </tspan>
+<tspan x="10" y="298">  │ └── strict-uri-encode@1.1.0 </tspan>
+<tspan x="10" y="314">  ├─┬ rc-dialog@6.5.8 </tspan>
+<tspan x="10" y="330">  │ ├─┬ babel-runtime@6.23.0 </tspan>
+<tspan x="10" y="346">  │ │ ├── core-js@2.4.1 </tspan>
+<tspan x="10" y="362">  │ │ └── regenerator-runtime@0.10.3 </tspan>
+<tspan x="10" y="378">  │ ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="394">  │ ├─┬ rc-animate@2.3.6 </tspan>
+<tspan x="10" y="410">  │ │ ├─┬ css-animation@1.3.2 </tspan>
+<tspan x="10" y="426">  │ │ │ └─┬ component-classes@1.2.6 </tspan>
+<tspan x="10" y="442">  │ │ │   └── component-indexof@0.0.3 </tspan>
+<tspan x="10" y="458">  │ │ └─┬ prop-types@15.5.8 </tspan>
+<tspan x="10" y="474">  │ │   └─┬ fbjs@0.8.12 </tspan>
+<tspan x="10" y="490">  │ │     ├── core-js@1.2.7 </tspan>
+<tspan x="10" y="506">  │ │     ├─┬ promise@7.1.1 </tspan>
+<tspan x="10" y="522">  │ │     │ └── asap@2.0.5 </tspan>
+<tspan x="10" y="538">  │ │     ├── setimmediate@1.0.5 </tspan>
+<tspan x="10" y="554">  │ │     └── ua-parser-js@0.7.12 </tspan>
+<tspan x="10" y="570">  │ └─┬ rc-util@4.0.2 </tspan>
+<tspan x="10" y="586">  │   ├── add-dom-event-listener@1.0.2 </tspan>
+<tspan x="10" y="602">  │   └─┬ shallowequal@0.2.2 </tspan>
+<tspan x="10" y="618">  │     └─┬ lodash.keys@3.1.2 </tspan>
+<tspan x="10" y="634">  │       ├── lodash._getnative@3.9.1 </tspan>
+<tspan x="10" y="650">  │       ├── lodash.isarguments@3.1.0 </tspan>
+<tspan x="10" y="666">  │       └── lodash.isarray@3.0.4 </tspan>
+<tspan x="10" y="682">  ├── UNMET PEER DEPENDENCY react@&gt;=0.14.0</tspan>
+<tspan x="10" y="698">  ├─┬ react-bootstrap@0.29.5 </tspan>
+<tspan x="10" y="714">  │ ├─┬ babel-runtime@5.8.38 </tspan>
+<tspan x="10" y="730">  │ │ └── core-js@1.2.7 </tspan>
+<tspan x="10" y="746">  │ ├── dom-helpers@2.4.0 </tspan>
+<tspan x="10" y="762">  │ ├─┬ invariant@2.2.2 </tspan>
+<tspan x="10" y="778">  │ │ └─┬ loose-envify@1.3.1 </tspan>
+<tspan x="10" y="794">  │ │   └── js-tokens@3.0.1 </tspan>
+<tspan x="10" y="810">  │ ├── keycode@2.1.8 </tspan>
+<tspan x="10" y="826">  │ ├── lodash-compat@3.10.2 </tspan>
+<tspan x="10" y="842">  │ ├── UNMET PEER DEPENDENCY react@&gt;=0.14.0</tspan>
+<tspan x="10" y="858">  │ ├── UNMET PEER DEPENDENCY react-dom@&gt;=0.14.0</tspan>
+<tspan x="10" y="874">  │ ├─┬ react-overlays@0.6.12 </tspan>
+<tspan x="10" y="890">  │ │ ├── dom-helpers@3.2.1 </tspan>
+<tspan x="10" y="906">  │ │ ├── UNMET PEER DEPENDENCY react@&gt;=0.14.0</tspan>
+<tspan x="10" y="922">  │ │ ├── react-prop-types@0.4.0 </tspan>
+<tspan x="10" y="938">  │ │ └── warning@3.0.0 </tspan>
+<tspan x="10" y="954">  │ ├── react-prop-types@0.3.2 </tspan>
+<tspan x="10" y="970">  │ ├── uncontrollable@3.3.1 </tspan>
+<tspan x="10" y="986">  │ └── warning@2.1.0 </tspan>
+<tspan x="10" y="1002">  ├── UNMET PEER DEPENDENCY react-dom@&gt;=0.14.0</tspan>
+<tspan x="10" y="1018">  ├─┬ react-loader@2.4.0 </tspan>
+<tspan x="10" y="1034">  │ └── spin.js@2.3.2 </tspan>
+<tspan x="10" y="1050">  ├── UNMET PEER DEPENDENCY redux@^2.0.0 || ^3.0.0</tspan>
+<tspan x="10" y="1066">  └── redux-immutablejs@0.0.8</tspan>
+</text>
+</svg>
